@@ -8,6 +8,7 @@ Pre-requisites: You need bare bones Perl. All the script does is simple text par
 Usage: On the command line type:
 
 ./annotated_cds_dmel.pl dmel-all-no-analysis-r6.07.gff
+
 press enter.
 
 Output: While procesing the file the script will print:
